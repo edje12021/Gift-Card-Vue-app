@@ -55,7 +55,7 @@
                 <img src="../assets/apple_logo.png" alt="" class="lg:w-4/12 h-auto">
             </div>
             <div class="grid grid-cols-5 w-8/12 my-2 lg:mx-0 mx-auto">
-                <img src="../assets/Cyan Star.png" class="px-0 h-auto" v-for="n in 5" :key="n"  alt="">
+                <img src="../assets/CyanStar.png" class="px-0 h-auto" v-for="n in 5" :key="n"  alt="">
             </div>
             <p class="mt-2 mb-1 font-helv lg:text-start text-center">Top Brand <span class="font-bold text-black">4.9</span></p>
             <p class="mb-2 font-helv lg:text-start text-center"> <span class="font-bold text-black">915</span> reviews</p>
