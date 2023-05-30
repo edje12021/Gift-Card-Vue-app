@@ -36,7 +36,7 @@
             </div>
             <div class="absolute -bottom-14 left-16 lg:bottom-10 lg:left-40 flex flex-row lg:py-3 lg:px-3 py-2 px-2  -rotate-12">
                 <span class="lg:text-xl text-xxs font-normal font-nanum mr-3" >Customise gifts<br/> cards for free</span>
-                <img src="../assets/curved arrow.png" class="w-4/12 h-auto p-2" alt="">
+                <img src="../assets/curvedarrow.png" class="w-4/12 h-auto p-2" alt="">
             </div>
 
         </div>

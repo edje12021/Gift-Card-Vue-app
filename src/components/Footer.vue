@@ -50,8 +50,8 @@
              </div>  
             </div>
         </div>
-        <div class="mt-[10px]  container mx-auto  px-6">
-            <div class=" py-10 ">
+        <div class="mt-[10px] lg:mb-[80px]  container mx-auto  px-6">
+            <div class=" py-2 ">
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-7">
                     <div class="footer-logo flex flex-row flex-wrap my-10">
                         <a href="#" class="-m-1.5 p-1.5 flex flex-row text-dCyan text-2xl font-semibold my-2 mr-1">
