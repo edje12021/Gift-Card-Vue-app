@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require("tailwindcss/defaultTheme");
 export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
@@ -21,6 +22,23 @@ export default {
         "banner-h1": "url('./src/assets/behindHeader.svg')",
         cta: "url('./src/assets/customGiftbg.svg')",
       },
+      keyframes: {
+        move: {
+          "0%": { transform: "translate(0%)" },
+          "100%": { transform: "translate(120%)" },
+        },
+      },
+      animation: {
+        move: "move 2s ease-in-out infinite",
+      },
+      // screens:{
+      //   xs: "200px"
+      // }
+      // screens: {
+      //   'xxs':  {'min': '200px', 'max': '300px'},
+      //   ...defaultTheme.screens,
+      // },
+      
     },
   },
   plugins: [],

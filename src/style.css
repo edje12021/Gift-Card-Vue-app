@@ -3,21 +3,38 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-family: "Sora";
+    }
+
+    p {
+        font-family: "Inter";
+    }
+}
+
+@layer utilities {
+
+    #reviews .swiper-button-next,
+    #reviews .swiper-button-prev {
+        display: none !important;
+        visibility: hidden;
+
+    }
+
+
+}
+
 body {
     margin: 0;
     padding: 0;
     font-family: 'Sora';
     background-color: #FFFFFF;
+    overflow-x: hidden !important;
 
-}
-
-h1,
-h2,
-h3,
-h4 {
-    font-family: "Sora";
-}
-
-p {
-    font-family: "Inter";
 }
