@@ -1,7 +1,7 @@
 <template>
     <div v-for="(card , index) in CardContent " :key="index" class="card flex flex-col  rounded-2xl overflow-hidden bg-white border border-[#DCD9D9]">
         <div class="relative">
-            <img :src="card.url" class="w-full" alt="">
+            <img :src="`${card.url}`" class="w-full" alt="">
             <img src="../assets/CardBottom.png" alt="" class="absolute w-full bottom-0">
         </div>
         <div class="flex flex-col px-4 py-7">

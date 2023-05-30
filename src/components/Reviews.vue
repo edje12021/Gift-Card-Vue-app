@@ -69,25 +69,25 @@ export default {
           {
             name: "Eniola Salami",
             title: "APP STORE",
-            url: "../../src/assets/r1.png",
+            url: "r1.png",
             text: "I gifted the family package to my younger brother, and he could download all mobile applications at ease."
           },
           {
             name: "Maryann James",
             title: "PLAYSTATION",
-            url: "../../src/assets/r2.png",
+            url: "r2.png",
             text: "Gifted my boyfriend this gift card, glad to see all his preferences as I customised it. He loves it so much."
           },
           {
             name: "Peter Raymond",
             title: "SPOTIFY",
-            url: "../../src/assets/r3.png",
+            url: "r3.png",
             text: "Now my gym instructor can play music during exercises, without any interruption from social adverts."
           },
           {
             name: "Chimsidi Ogo",
             title: "JUMIA",
-            url: "../../src/assets/r4.png",
+            url: "r4.png",
             text: "This has to be a life saver. Getting a birthday gift for my boss was such a difficult task. Thanks to this."
           },
 

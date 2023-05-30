@@ -25,37 +25,37 @@ export default {
         return {
             CardContent: [
                 {
-                    url : "../../src/assets/amazon.png",
+                    url : "amazon.png",
                     title : "Amazon",
                     ratings : 92
                 },
                 {
-                    url : "../../src/assets/itunes.png",
+                    url : "itunes.png",
                     title : "iTunes",
                      ratings: 88
                 },
                 {
-                    url : "../../src/assets/sephora.png",
+                    url : "sephora.png",
                     title : "Sephora",
                     ratings: 102
                 },
                 {
-                    url : "../../src/assets/walmart.png",
+                    url : "walmart.png",
                     title : "Walmart",
                     ratings: 76
                 },
                 {
-                    url : "../../src/assets/spotify.png",
+                    url : "spotify.png",
                     title : "Spotify",
                     ratings: 23
                 },
                 {
-                    url : "../../src/assets/playstation.png",
+                    url : "playstation.png",
                     title : "PlayStation",
                     ratings: 99
                 },
                 {
-                    url : "../../src/assets/Appstore.png",
+                    url : "Appstore.png",
                     title : "Appstore",
                     ratings: 92
                 },
