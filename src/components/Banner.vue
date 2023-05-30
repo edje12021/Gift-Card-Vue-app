@@ -25,16 +25,16 @@
             </div>
         </div>
         <div class="banner-images px-10 drop-shadow-2xl relative hidden lg:block w-full">
-            <img src="../assets/Banner 1.png" class="w-10/12 h-auto z-50 absolute top-5 img1"  alt="">
-            <img src="../assets/Banner 2.png" class="w-10/12 h-auto z-40 absolute top-0 right-8 -rotate-2 img2" alt="">
-            <img src="../assets/Banner 3.png" class="w-10/12 h-auto z-30 absolute -top-2 img3 " alt="">
-            <img src="../assets/Banner 4.png" class="w-11/12 h-auto z-10 drop-shadow-2xl absolute top-10 -left-5 " alt="">
+            <img src="../assets/Banner1.png" class="w-10/12 h-auto z-50 absolute top-5 img1"  alt="">
+            <img src="../assets/Banner2.png" class="w-10/12 h-auto z-40 absolute top-0 right-8 -rotate-2 img2" alt="">
+            <img src="../assets/Banner3.png" class="w-10/12 h-auto z-30 absolute -top-2 img3 " alt="">
+            <img src="../assets/Banner4.png" class="w-11/12 h-auto z-10 drop-shadow-2xl absolute top-10 -left-5 " alt="">
         </div>
         <div class="banner-images px-10 drop-shadow-2xl relative lg:hidden  w-full">
-            <img src="../assets/Banner 1.png" class="w-10/12 h-auto z-50 absolute top-5 "  alt="">
-            <img src="../assets/Banner 2.png" class="w-10/12 h-auto z-40 absolute top-0 right-8 -rotate-2 " alt="">
-            <img src="../assets/Banner 3.png" class="w-10/12 h-auto z-30 absolute -top-2  " alt="">
-            <img src="../assets/Banner 4.png" class="w-11/12 h-auto z-10 drop-shadow-2xl absolute top-10 -left-5 " alt="">
+            <img src="../assets/Banner1.png" class="w-10/12 h-auto z-50 absolute top-5 "  alt="">
+            <img src="../assets/Banner2.png" class="w-10/12 h-auto z-40 absolute top-0 right-8 -rotate-2 " alt="">
+            <img src="../assets/Banner3.png" class="w-10/12 h-auto z-30 absolute -top-2  " alt="">
+            <img src="../assets/Banner4.png" class="w-11/12 h-auto z-10 drop-shadow-2xl absolute top-10 -left-5 " alt="">
         </div>
         
     </div>
